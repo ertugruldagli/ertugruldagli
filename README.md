@@ -1,16 +1,18 @@
-### Hi there 👋
+### HELLO WORLD 👋 
+- 🔭 I’m currently working on Smart Contract Development with Solidity. 
+- 🌱 I'm improving myself every day.
+- ⚡ I’m currently developing Java Core and MSSQL Server.
+  
+- 💥Languages
+    - JAVA Core and Spring Boot(Beginner)
+    - R
+    - SQL
+   
+ - ✨Tools
+    - Postgres SQL
+    - MSSQL
+    - Eclips and Netbeans Intellij IDEA
+    - Power BI
+    
 
-<!--
-**ertugruldagli/ertugruldagli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
