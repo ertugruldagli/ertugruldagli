@@ -1,5 +1,5 @@
 ### HELLO WORLD, I'm Ertugrul 👋 
-- 🔭 I’m currently working on Smart Contract Development with Solidity. 
+- 🔭 I’m currently working on Java Object Oriented Programming. 
 - 🌱 I'm improving myself every day.
 - ⚡ I’m currently developing Java Core and MSSQL Server.
   
