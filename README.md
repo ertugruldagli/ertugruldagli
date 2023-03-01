@@ -12,11 +12,11 @@
    
  - ✨Tools
     - Postgres SQL
-    - MSSQL
+    - MSSQL Server Management Studio
     - Eclips and Netbeans Intellij IDEA
     - Visual Studio 
     - Power BI
-    - .Net Core
+
     
 
 
