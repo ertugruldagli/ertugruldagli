@@ -14,6 +14,7 @@
     - Postgres SQL
     - MSSQL
     - Eclips and Netbeans Intellij IDEA
+    - Visual Studio 
     - Power BI
     - .Net Core
     
