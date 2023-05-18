@@ -15,8 +15,8 @@
     - Postgres SQL
     - MSSQL Server Management Studio
     - Eclips and Netbeans Intellij IDEA
-    - Visual Studio 
-    - Power BI
+    - Visual Studio
+    - Microsoft Azure
 
     
 
