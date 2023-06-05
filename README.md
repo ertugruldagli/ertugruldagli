@@ -16,7 +16,8 @@
     - MSSQL Server Management Studio
     - Eclips and Netbeans Intellij IDEA
     - Visual Studio
-    - Microsoft Azure
+    - Microsoft Azure Virtual Machine
+    - Power BI Desktop
 
     
 
