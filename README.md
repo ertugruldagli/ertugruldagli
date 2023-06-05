@@ -9,7 +9,7 @@
     - R
     - SQL
     - C# 
-    - Asp .Net Core / Entity Framework
+    - Asp .Net Core MVC / Entity Framework
    
  - ✨Tools
     - Postgres SQL
