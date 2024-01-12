@@ -5,8 +5,7 @@
 - 📫 Ask me about the Java Core and .Net Core
   
 - 💥Languages
-    - JAVA Core 
-    - R
+    - Pyhton (Numpy-Pandas-Matplotlib-seaborn-pyodbc)
     - SQL
     - C# 
     - Asp .Net Core MVC / Entity Framework
@@ -15,7 +14,7 @@
     - Postgres SQL
     - MSSQL Server Management Studio
     - Eclips and Netbeans Intellij IDEA
-    - Visual Studio
+    - Visual Studio Code
     - Microsoft Azure Virtual Machine
     - Power BI Desktop
 
